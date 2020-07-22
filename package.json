@@ -6,9 +6,18 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "feather-icons": "^4.28.0",
+    "framer-motion": "^2.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-modal": "^3.11.2",
+    "react-scripts": "3.4.1",
+    "react-slick": "^0.27.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.1.1",
+    "tailwindcss": "^1.5.2",
+    "twin.macro": "^1.5.1",
+    "use-in-view": "^1.0.15"
   },
   "scripts": {
     "start": "react-scripts start",
